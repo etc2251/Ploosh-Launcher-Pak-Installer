@@ -1,7 +1,6 @@
-# POLICY:
+# POLICY AND HOW TO USE:
 ### I will take action against your project if you don't CREDIT ME AND PLOOSH. Add this somewhere in a channel called credits:
 Launcher - etc2251 and Ploosh!
-# Ploosh-Launcher pak installer:
 ### This installs .pak and .sig files to ur build, this is a modded version of the popular ploosh launcher made in c#!
 # How to use:
 ### I removed the backend part were you would add your backend, go into the file called settings.settings (photo: ![image](https://github.com/user-attachments/assets/69af4350-c6b7-4553-ba43-512bddeadfd3))
