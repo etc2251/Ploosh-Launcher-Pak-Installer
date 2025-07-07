@@ -1,6 +1,7 @@
 # POLICY AND HOW TO USE (it's not that long please read the whole thing it's legit just pasting.):
 ### I will take action against your project if you don't CREDIT ME AND PLOOSH. Add this somewhere in a channel called credits:
 Launcher - etc2251 and Ploosh!
+if someone is using it without perms add me on discord. @ilyetc__
 # TO INSTALL THE SOURCE CODE CLICK THE RELEASE BUTTON AND DOWNLOAD ONE OF THE SOURCE-CODE.ZIP FILES.
 ### This installs .pak and .sig files to ur build, this is a modded version of the popular ploosh launcher made in c#!
 ### I removed the backend part were you would add your backend, go into the file called settings.settings (photo: ![image](https://github.com/user-attachments/assets/69af4350-c6b7-4553-ba43-512bddeadfd3))
